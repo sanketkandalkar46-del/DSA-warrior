@@ -45,7 +45,7 @@ Consistency over perfection 💪
 
 ## 👨‍💻 About Me
 
-**Sumit Anandrao Joshi**  
+**Sanket Bhausaheb Kandalkar**  
 🎓 Information Technology Student @ PCCOE Ravet  
 🚀 Founder – Developments of Developer  
 💡 Passionate about DSA, Web Development & AI  
